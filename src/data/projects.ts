@@ -20,7 +20,7 @@ export const projects: Project[] = [
     stack: ["React 19", "TypeScript", "Zustand", "Tailwind CSS", "Vite", "Recharts", "date-fns"],
     demo: "https://handle-finance.vercel.app",
     code: "https://github.com/ledneev/handleFinance",
-    image: "../../public/images/finsim.jpg",
+    image: "/images/finsim.jpg",
     featured: true,
     year: 2025
   },
@@ -32,7 +32,7 @@ export const projects: Project[] = [
     stack: ["React", "TypeScript", "Redux Toolkit", "React Router v6", "REST API", "JWT", "jest", "cypress"],
     demo: "https://stellar-burgers-coral.vercel.app/", 
     code: "https://github.com/ledneev/stellar-burgers",
-    image: "../../public/images/burger.jpg",
+    image: "/images/burger.jpg",
     featured: true,
     year: 2026
   },
@@ -44,7 +44,7 @@ export const projects: Project[] = [
     stack: ["TypeScript", "MVP Architecture", "Webpack", "REST API", "HTML Templates"],
     demo: "https://weblarek.vercel.app",
     code: "https://github.com/ledneev/weblarek",
-    image: "../../public/images/larek.jpg",
+    image: "/images/larek.jpg",
     featured: true,
     year: 2025
   },
@@ -56,7 +56,7 @@ export const projects: Project[] = [
     stack: ["React", "TypeScript", "CSS Custom Properties", "Storybook", "CSS Modules"],
     demo: "", // potom
     code: "https://github.com/ledneev/blog-customizer",
-    image: "../../public/images/blog.png",
+    image: "/images/blog.png",
     year: 2025
   },
   {
@@ -67,7 +67,7 @@ export const projects: Project[] = [
     stack: ["JavaScript", "TypeScript", "Observer Pattern", "REST API", "Local Storage"],
     demo: "https://weather-app-seven-beta-46.vercel.app",
     code: "https://github.com/ledneev/weather-app",
-    image: "../../public/images/weather.jpg",
+    image: "/images/weather.jpg",
     year: 2025
   },
   {
@@ -78,7 +78,7 @@ export const projects: Project[] = [
     stack: ["JavaScript", "TypeScript", "Data Processing", "Algorithms"],
     demo: "https://smart-table-tau.vercel.app/",
     code: "https://github.com/ledneev/smart-table",
-    image: "../../public/images/table.jpg",
+    image: "/images/table.jpg",
     year: 2025
   }
 ];
